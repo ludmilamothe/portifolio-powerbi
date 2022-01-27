@@ -15,7 +15,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - Adobe PhotoShop CC 2020
 
 
-## Autor
+## Autora
 Ludmila Mothé
 
 - [Gmail](mailto:ludmila.mothe@gmail.com)
